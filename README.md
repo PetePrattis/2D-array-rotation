@@ -8,7 +8,7 @@ and is one of a few such simple python programms neccessary to pass the class_
 
 > #### Description of project
 >
->>
+>>A program which creates a 8x8 table consisting of gaps (space) and 0. Then it displays the three rotations that it can have (by 90 degrees). Consider it like rotating a custom brick in Tetris.
 
 > #### About this project
 >
